@@ -1,15 +1,21 @@
 Specs 国内镜像
 
  1. 清华大学镜像
-> https://mirrors.tuna.tsinghua.edu.cn/git/CocoaPods/Specs.git
+ ```
+https://mirrors.tuna.tsinghua.edu.cn/git/CocoaPods/Specs.git
+```
 
  2. 上海大学镜像
-> https://mirrors.shu.edu.cn/CocoaPods (仅HTTP/HTTPS访问，不支持git拉取)
-> https://mirrors.shu.edu.cn/mgit/Specs (仅git访问)
-> https://git.shuosc.org/CocoaPods/Specs (均支持)
+```
+https://mirrors.shu.edu.cn/CocoaPods (仅HTTP/HTTPS访问，不支持git拉取)
+https://mirrors.shu.edu.cn/mgit/Specs (仅git访问)
+https://git.shuosc.org/CocoaPods/Specs (均支持)
+```
 
  3. COCOAPODS SPECS 中国区镜像表项
-> git://cocoapodscn.com/Specs.git
+```
+git://cocoapodscn.com/Specs.git
+```
 
 使用方法
 ----
