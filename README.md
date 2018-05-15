@@ -12,7 +12,7 @@ https://mirrors.shu.edu.cn/mgit/Specs (仅git访问)
 https://git.shuosc.org/CocoaPods/Specs (均支持)
 ```
 
- 3. COCOAPODS SPECS 中国区镜像表项
+ 3. COCOAPODS SPECS 中国区镜像
 ```
 git://cocoapodscn.com/Specs.git
 ```
