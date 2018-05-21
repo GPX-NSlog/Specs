@@ -30,7 +30,7 @@ pod repo update
 ```
 cd ~/.cocoapods/repos 
 pod repo remove master
-git clone https://mirrors.tuna.tsing>hua.edu.cn/git/CocoaPods/Specs.git master
+git clone https://mirrors.tuna.tsinghua.edu.cn/git/CocoaPods/Specs.git master
 ```
 
 ----
